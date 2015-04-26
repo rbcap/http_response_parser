@@ -22,10 +22,10 @@ bash parser.sh
 Enter the log file -->log_parser.log
 log file name/path log_parser.log
 number of HTTP 404 errors in sample log file
-      5 404
+5 404
 all HTTP response with its respective count 
-      1 302
-      2 304
-      3 502
-     39 200
-      5 404
+1 302
+2 304
+3 502
+39 200
+5 404
